@@ -1,7 +1,0 @@
-Resources:
-  Bad:
-    Type: AWS::Glue::SecurityConfiguration
-    Properties:
-      EncryptionConfiguration:
-        CloudWatchEncryption:
-          CloudWatchEncryptionMode: DISABLED

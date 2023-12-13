@@ -1,1 +1,0 @@
-const privatekey = "ts_Z9N4GTPRUM0YCL0B0SRE9774I7LDT"

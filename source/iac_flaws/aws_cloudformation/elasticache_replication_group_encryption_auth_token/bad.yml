@@ -1,5 +1,0 @@
-Resources:
-  Bad:
-    Type: 'AWS::ElastiCache::ReplicationGroup'
-    Properties:
-      TransitEncryptionEnabled: True

@@ -1,5 +1,0 @@
-Resources:
-  Bad:
-    Type: 'AWS::CodeArtifact::Domain'
-    Properties:
-      DomainName: "my-domain"
